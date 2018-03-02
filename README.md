@@ -31,4 +31,4 @@ Environment="KUBELET_EXTRA_ARGS=--node-labels=label1=value1,label2=value2 --regi
 
 write chef recipes
 
-all nodes use tls to communicate
+all nodes use tls to communicate 
